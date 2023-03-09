@@ -11,7 +11,42 @@
   display: flex;
   align-items: center;
 }
+.navcolor{
+  background-color: rgb(71, 141, 217);
+color: aliceblue;
+}
+#link-nav{
+  color: aliceblue;
+}
+.div-trabalho{
+  background-color: rgb(71, 141, 217);
+  border-radius: 10px;
+  padding: 10px;
+}
 
+
+.imagem-whatsap {
+  width: 80px;
+  z-index: 10 !important;
+}
+.contato-fixed {
+  width: 90px;
+  height: 90px;
+  position: fixed;
+  right: 4px;
+  bottom: 23%;
+  z-index: 10 !important;
+
+}
+.tel-fixed {
+  width: 90px;
+  height: 90px;
+  position: fixed;
+  right: 4px;
+  bottom: 10%;
+  z-index: 10 !important;
+
+}
 .contatos {
     background-color: rgb(71, 141, 217);
 }
